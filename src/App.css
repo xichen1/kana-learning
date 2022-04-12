@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    margin-bottom: 1rem;
+}
+
+.typeSection{
+    font-size: 1.5rem;
+    color: rgb(0, 153, 255);
+}
+
+.stage{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stageKana{
+    font-size: 6rem;
+}
